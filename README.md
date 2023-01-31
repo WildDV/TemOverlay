@@ -13,7 +13,7 @@
 -   [Minimizar](#minimizar)
 -   [Transparencia](#transparencia)
 
->**Nota:**
+>**Note**
 >TemOverlay No Usa Archivos Del Juego Para Su Funcionamiento.
 
 # Descripción
@@ -50,7 +50,7 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/5_umodyr.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/5_umodyr.png)
 
->**Nota:**
+>**Note**
 >Esto solo funciona en temtems con múltiples tipos, como "Chromeon" y "Koish".
 
 # Minimizar
@@ -65,7 +65,7 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/8_ip8n0e.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/8_ip8n0e.png)
 
->**Nota:**
+>**Note**
 >La posición del modo minimizado y maximizado se guarda automáticamente.
 
 # Transparencia
@@ -74,5 +74,5 @@ Al quitar el mouse, que esta sobre la aplicación, esta gana transparencia.
 
 [![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/9_ansq9b.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/9_ansq9b.png)
 
->**Nota:**
+>**Note**
 >Solo Funciona en modo maximizado.
