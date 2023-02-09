@@ -42,13 +42,13 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 - Se puede filtrar por nombre el temtem que buscas.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675194969/4_zpufye.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675194969/4_zpufye.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675194969/Recursos/TemOverlay/4_zpufye.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675194969/Recursos/TemOverlay/4_zpufye.png)
 
 # Temtems Múltiples Tipos
 
 - Puedes seleccionar el tipo secundario del temtem, en el cuadro de tipos.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/5_umodyr.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/5_umodyr.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/Recursos/TemOverlay/5_umodyr.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675195184/Recursos/TemOverlay/5_umodyr.png)
 
 >**Note**
 >Esto solo funciona en temtems con múltiples tipos, como "Chromeon" y "Koish".
@@ -57,13 +57,13 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 - Al minimizar, solo se ve un pequeño icono el cual puedes mover a tu gusto, arrastrando con el clic.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675195428/7_xtyfyd.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675195428/7_xtyfyd.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675195428/Recursos/TemOverlay/7_xtyfyd.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675195428/Recursos/TemOverlay/7_xtyfyd.png)
 
 - Para regresar al modo maximizado, solo le damos `doble clic` (rápido) en cualquier parde del icono.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196084/6_v9j9ot.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196084/6_v9j9ot.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196084/Recursos/TemOverlay/6_v9j9ot.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196084/Recursos/TemOverlay/6_v9j9ot.png)
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/8_ip8n0e.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/8_ip8n0e.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/Recursos/TemOverlay/8_ip8n0e.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196217/Recursos/TemOverlay/8_ip8n0e.png)
 
 >**Note**
 >La posición del modo minimizado y maximizado se guarda automáticamente.
@@ -72,7 +72,7 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 Al quitar el mouse, que esta sobre la aplicación, esta gana transparencia.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/9_ansq9b.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/9_ansq9b.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/Recursos/TemOverlay/9_ansq9b.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675196797/Recursos/TemOverlay/9_ansq9b.png)
 
 >**Note**
 >Solo Funciona en modo maximizado.
