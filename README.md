@@ -38,7 +38,9 @@ Puedes descargar la aplicación desde la siguiente URL `(Versión Independiente 
 
 - Al hacer clic en cualquiera de los 2 rasgos, nos muestra la descripción.
 
-[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675194799/3_k48pnv.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675194799/3_k48pnv.png)
+[![Readme Card](https://res.cloudinary.com/dxblq473l/image/upload/v1675194799/Recursos/TemOverlay/3_k48pnv.png)](https://res.cloudinary.com/dxblq473l/image/upload/v1675194799/Recursos/TemOverlay/3_k48pnv.png)
+
+
 
 - Se puede filtrar por nombre el temtem que buscas.
 
